@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b88cc125a149e24b8966f90f196ce02, type: 3}
+  m_Name: Level2Settings
+  m_EditorClassIdentifier: 
+  _levelNumber: 2
+  _numberOfColums: 3
+  _numberOfRows: 2
+  _cellSize: 150
+  _cellSet: {fileID: 11400000, guid: 4bd3a4e1670cea9448232701b39028a5, type: 2}
